@@ -1,4 +1,4 @@
-# Todolist using laravel mixed with vue js
+# Laravel project with admin voyager
 
 #### Have fun to learn this project.
 
